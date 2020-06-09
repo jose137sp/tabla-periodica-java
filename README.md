@@ -1,4 +1,4 @@
-# jose137sp-tabla-periodica-java
+# tabla-periodica-java
 java programming homework #12
 
 This program was made for a java-programming homework.
